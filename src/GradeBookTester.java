@@ -1,7 +1,7 @@
 public class GradeBookTester {
     public static void main(String[] args){
         int[][] mathGrades = {{90, 95, 100},
-                               {80, 85, 90},
+                               {80, 45, 90},
                                {65, 70, 65}};
 
         GradeBook Math = new GradeBook("Intro to Math", mathGrades);
